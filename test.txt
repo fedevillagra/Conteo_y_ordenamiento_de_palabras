@@ -1,0 +1,1 @@
+En ciencias de la computación, un árbol es un tipo abstracto de datos ampliamente usado que imita la estructura jerárquica de un árbol
